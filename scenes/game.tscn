@@ -4,7 +4,7 @@
 [ext_resource type="PackedScene" uid="uid://bcne1d3p0amrk" path="res://scenes/background.tscn" id="2_kpss6"]
 [ext_resource type="PackedScene" uid="uid://dvqe5yrmnj22t" path="res://scenes/player.tscn" id="3_wedu7"]
 [ext_resource type="PackedScene" uid="uid://cy2ytach2fwsu" path="res://scenes/enemy_weak.tscn" id="4_vjkqh"]
-[ext_resource type="PackedScene" uid="uid://c1yfdfrmpulxv" path="res://scenes/pause.tscn" id="5_iknmg"]
+[ext_resource type="PackedScene" uid="uid://c1yfdfrmpulxv" path="res://pause.tscn" id="5_iknmg"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_jgt6t"]
 size = Vector2(102, 1058)
